@@ -4,8 +4,7 @@
 </p align="center">
 <!--- Picture --->
 <p align="center">
-<!---<img src="https://github.com/loi31/loi31/blob/main/picture/rep.gif" />--->
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/685931611589574802?theme=dark&bg=000000)](https://discord.com/users/747816047268200459)
+<img src="https://github.com/loi31/loi31/blob/main/picture/rep.gif" />
   </p align="center">
 <!--- Stat Github --->
 <img align="left" width="430" height="auto" alt="loi31's github stats" src="https://github-readme-stats.vercel.app/api?username=loi31&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
